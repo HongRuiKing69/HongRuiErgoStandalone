@@ -30,8 +30,8 @@
             timeout-ms = <20>;
         };
 
-        control {
-            bindings = <&kp LEFT_CONTROL>;
+        ctrl {
+            bindings = <&kp RCTRL>;
             key-positions = <31 32>;
             timeout-ms = <20>;
         };
