@@ -28,12 +28,6 @@
             key-positions = <3 2>;
             timeout-ms = <20>;
         };
-
-        ctrl {
-            bindings = <&kp RCTRL>;
-            key-positions = <31 32>;
-            timeout-ms = <20>;
-        };
     };
 
     keymap {
