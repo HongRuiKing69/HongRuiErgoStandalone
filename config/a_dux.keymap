@@ -34,7 +34,6 @@
         };
     };
 
-
     keymap {
         compatible = "zmk,keymap";
 
@@ -44,7 +43,7 @@
 &kp Q  &kp W  &kp E  &kp R  &kp T                                         &kp Y  &kp U  &kp I                &kp O                    &mt LS(P) P
 &kp A  &kp S  &kp D  &kp F  &kp G                                         &kp H  &kp J  &kp K                &kp L                    &kp LEFT_SHIFT
 &kp Z  &kp X  &kp C  &kp V  &kp B                                         &kp N  &kp M  &mt LESS_THAN COMMA  &mt GREATER_THAN PERIOD  &mt QUESTION KP_DIVIDE
-                            &kp LEFT_GUI  &lt 0 SPACE    &mt LCTRL SPACE  &mo 1
+                            &kp LEFT_GUI  &lt 2 SPACE    &mt LCTRL SPACE  &mo 1
             >;
         };
 
